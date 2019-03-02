@@ -21,12 +21,12 @@ fi
 # Generate themes
 
 overlay_path="$dd_path/app/src/main/assets/overlays"
-overlay_package="ru.baikalos.overlay.defaultdark"
-overlay_package_dark_notif="ru.baikalos.overlay.defaultdark.notif"
-overlay_package_black="ru.baikalos.overlay.defaultblack"
-overlay_package_black_notif="ru.baikalos.overlay.defaultblack.notif"
-overlay_package_dark_transparent="ru.baikalos.overlay.defaultdark.transparent"
-overlay_package_black_transparent="ru.baikalos.overlay.defaultblack.transparent"
+overlay_package="com.cerberusos.overlay.defaultdark"
+overlay_package_dark_notif="com.cerberusos.overlay.defaultdark.notif"
+overlay_package_black="com.cerberusos.overlay.defaultblack"
+overlay_package_black_notif="com.cerberusos.overlay.defaultblack.notif"
+overlay_package_dark_transparent="com.cerberusos.overlay.defaultdark.transparent"
+overlay_package_black_transparent="com.cerberusos.overlay.defaultblack.transparent"
 product_packages_makefile="$my_path/product_packages_dark.mk"
 
 fix_dd() {
