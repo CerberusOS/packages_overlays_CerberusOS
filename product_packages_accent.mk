@@ -6,6 +6,7 @@ PRODUCT_PACKAGES += \
     Accent-Gold \
     Accent-GreenLight \
     Accent-Lime \
+    Accent-OneplusRed \
     Accent-Orange \
     Accent-Oxygen \
     Accent-Pink \
